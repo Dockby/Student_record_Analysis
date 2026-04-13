@@ -46,4 +46,4 @@ Two CSVs — `student_performance.csv` (30 students, 9 columns) and `student_ext
 | 12 | Meera | 97.3 |
 
 ## Skills Demonstrated
-`fillna` · `np.where` · `np.select` · `pd.merge` · `groupby` · `idxmax` · `pivot_table` · `seaborn barplot/countplot/scatterplot`
+ · `EDA` · `pd.merge` ·  · `pandas` · ` numpy` · `Matplotlib`
